@@ -2,7 +2,7 @@ body{
 	color: white;
 	padding-bottom: 30px;
 	font-family: 'Roboto', sans-serif;
-	background-color: #2F0781;
+	background-color: #009f77;
 }
 
 b{
@@ -10,7 +10,7 @@ b{
 }
 
 .principal{
-	background-color: #DFB233;
+	background-color: #f7fffd;
 	min-height: 150px;
 	padding-top: 20px;
     background-size: cover;
@@ -30,7 +30,7 @@ b{
 .footer{
 	padding-left: 37px;
 	width: 100%;
-    display: grid;
+	display: grid;
 }
 
 .copyright {
